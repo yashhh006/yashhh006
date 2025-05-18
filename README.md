@@ -53,7 +53,7 @@ Looking forward to contributing to **ASIC/FPGA front-end design and verification
 
 *Let's Connect*:
 
-[📫 Email](mailto:yashpatel6022@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/yash-patel-y0602) | [📁 GitHub](https://github.com/yourGithubProfile)
+[📫 Email](mailto:yashpatel6022@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/yash-patel-y0602)
 
 <!--
 **yashhh006/yashhh006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
