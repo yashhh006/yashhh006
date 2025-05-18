@@ -2,8 +2,8 @@
 
 ## 👨‍🎓 About Me:
 
-🎓 **Design & Verification Engineer** with an academic background in Physics (M.Sc. from NIT Surat) and strong hands-on experience and tr in **ASIC front-end design and verification**.
-💡 Trained in **ASIC front-end design and functional verification**, with hands-on experience using **SystemVerilog**, **UVM**, and **FPGA workflows**.  
+🎓 **Design & Verification Engineer** with an academic background in Physics (M.Sc. from NIT Surat) and strong hands-on experience and in **Formal verification**.
+💡 Trained in **ASIC front-end design and functional verification**, with hands-on experience using **SystemVerilog**, **UVM**, and **FPGA workflows**.
 🔍 Passionate about building reliable digital systems, writing efficient testbenches, and exploring modular verification techniques.
 
 ---
