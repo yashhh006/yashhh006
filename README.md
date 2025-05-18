@@ -10,10 +10,10 @@
 
 ---
 
-## ⚙️ Technical Skills:
+*Technical Skills*:
 
 - **HDLs & Methodologies**: Verilog | SystemVerilog | UVM | Vivado (FPGA)
-- **Verification**: Complete Testbench Architecture | Debugging | Constraint Random Testing | Assertions | Code & Functional Coverag
+- **Verification**: Complete Testbench Architecture | Debugging | Constraint Random Testing | Assertions | Code & Functional Coverag | On-chip & Peripheral Protocols
 - **FPGA Design**: Vivado  | Xilinx Flow | RTL Design & Debug
 - **Digital Design**: ALUs | Memory Blocks | Pattern Detectors | Interrupt/SPI Controllers | Sequential/Combinational
 - **Tools & Platforms**: QuestaSim | ModelSim | Cadence | EDA Playground | Vim/GVim | Vivado
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Projects Snapshot:
+*Projects*:
 
 - 🧠 **UVM-based Dual-Port Memory Testbench**  
   Complete testbench architecture using UVM components, assertions, coverage, and OOP practices in SystemVerilog.
@@ -37,21 +37,21 @@
 
 ---
 
-## 🌱 Currently Exploring:
+*Currently Exploring*:
 
-- Advanced UVM testbench hierarchies  
+- Advanced UVM testbench hierarchies with actual on-chip and peripheral protocols.   
 - Assertion-based verification and formal approaches  
 - Optimizing FPGA flow and debugging real-time signals
 
 ---
 
-## 🎯 Career Focus:
+*Career Focus*:
 
 Looking forward to contributing to **ASIC/FPGA front-end design and verification** roles with a focus on **digital reliability, scalable testbenches**, and **verification automation**.
 
 ---
 
-## 🔗 Let's Connect:
+*Let's Connect*:
 
 [📫 Email](mailto:yashpatel6022@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/yash-patel-y0602) | [📁 GitHub](https://github.com/yourGithubProfile)
 
